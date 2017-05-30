@@ -1,2 +1,21 @@
-# metlab2
-metagenomics lab
+# metlab
+
+## Introduction
+
+*TODO*
+
+## Installation
+
+*TODO*
+
+## Usage
+
+*TODO*
+
+## License
+
+*TODO*
+
+## Contributing
+
+*TODO*

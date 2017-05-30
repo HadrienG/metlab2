@@ -1,0 +1,25 @@
+{
+  "name": "metlab",
+  "version": "0.0.1",
+  "description": "A metagenomics laboratory",
+  "main": "app/main.js",
+  "scripts": {
+    "start": "./node_modules/.bin/electron ."
+  },
+  "repository": "https://github.com/HadrienG/metlab2",
+  "keywords": [
+    "metagenomics",
+    "bioinformatics",
+    "pipeline",
+    "demo",
+  ],
+  "author": [
+      "Hadrien Gourlé",
+      "Juliette Hayer",
+      "Oskar Karlsson",
+  ],
+  "license": "GPL3",
+  "devDependencies": {
+    "electron": "1.6.10"
+  }
+}
