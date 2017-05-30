@@ -11,12 +11,12 @@
     "metagenomics",
     "bioinformatics",
     "pipeline",
-    "demo",
+    "demo"
   ],
   "author": [
       "Hadrien Gourlé",
       "Juliette Hayer",
-      "Oskar Karlsson",
+      "Oskar Karlsson"
   ],
   "license": "GPL3",
   "devDependencies": {
