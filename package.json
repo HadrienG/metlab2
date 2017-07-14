@@ -4,7 +4,8 @@
   "description": "A metagenomics laboratory",
   "main": "app/main.js",
   "scripts": {
-    "start": "./node_modules/.bin/electron ."
+    "start": "./node_modules/.bin/electron .",
+    "test": "echo 'no test yet :-('"
   },
   "repository": "https://github.com/HadrienG/metlab2",
   "keywords": [
