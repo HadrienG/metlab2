@@ -14,12 +14,15 @@
     "demo"
   ],
   "author": [
-      "Hadrien Gourlé",
-      "Juliette Hayer",
-      "Oskar Karlsson"
+    "Hadrien Gourlé",
+    "Juliette Hayer",
+    "Oskar Karlsson"
   ],
-  "license": "GPL3",
+  "license": "GPL-3.0",
   "devDependencies": {
     "electron": "1.6.10"
+  },
+  "dependencies": {
+    "choo": "^5.6.2"
   }
 }
