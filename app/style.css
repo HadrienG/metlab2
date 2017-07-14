@@ -1,3 +1,23 @@
-body {
-    background: '#ede7f6';
+.sidebar {
+    height: 100%;
+    width: 200px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: #b39ddb;
+    overflow-x: hidden;
+    display: block;
+}
+
+.sidebar a {
+    padding: 8px 8px 8px 32px;
+    text-decoration: none;
+    font-size: 25px;
+    color: #000000;
+    display: block;
+    /*transition: 0.3s;*/
+}
+
+.sidebar a:hover {
+    background-color: #e6ceff;
 }
